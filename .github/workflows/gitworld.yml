@@ -1,0 +1,22 @@
+name: GitWorld
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Dasmat13/git-world-action@main
+        with:
+          github_user_name: spoorthi133
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/gitworld.svg
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add dist/gitworld.svg
+          git commit -m "Update GitWorld" || echo "No changes"
+          git push
