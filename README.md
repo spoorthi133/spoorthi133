@@ -1,11 +1,19 @@
-<h1 align="center">Hi, I'm Spoorthi 👋</h1>
+<h1 align="center">
+  Hi, I'm Spoorthi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/wave.gif" width="30px"/>
+</h1>
 
-<h3 align="center">Full-Stack Developer & AI/ML Engineer building things end-to-end — from a trained model to a deployed dashboard</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;Building+3D+U-Net+pipelines+%26+production+APIs;Turning+trained+models+into+deployed+products;Currently+hunting+for+a+3-month+internship+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/spoorthi-bm-a42714329"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Spoorthi--18"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="mailto:spoorthibm4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spoorthi133&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
 ---
@@ -73,6 +81,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spoorthi133&theme=tokyonight&hide_border=true"/>
 </p>
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/spoorthi133/spoorthi133/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+> ⚙️ *This animates automatically once you add the snake GitHub Action — setup steps below.*
+
 ---
 
 ### 🌱 Currently
@@ -82,3 +98,7 @@
 - 🚀 Looking for a 3-month internship where I can ship real features, not just tickets
 
 <p align="center"><i>📫 Reach me at spoorthibm4@gmail.com — always happy to talk ML, full-stack builds, or hackathon war stories.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+</p>
