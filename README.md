@@ -95,7 +95,7 @@
 
 - 🔬 Refining my sinus segmentation model for journal submission
 - 🧩 Sharpening DSA & problem-solving on LeetCode
-- 🚀 Looking for a 3-month internship where I can ship real features, not just tickets
+  
 
 <p align="center"><i>📫 Reach me at spoorthibm4@gmail.com — always happy to talk ML, full-stack builds, or hackathon war stories.</i></p>
 
