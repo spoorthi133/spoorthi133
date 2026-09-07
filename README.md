@@ -81,13 +81,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spoorthi133&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 🐍 Contribution Snake
+### 🏙️ GitWorld — My Contributions, Built as a City
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spoorthi133/spoorthi133/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/spoorthi133/spoorthi133/main/dist/gitworld.svg" alt="GitWorld animated city built from contributions"/>
 </p>
 
-> ⚙️ *This animates automatically once you add the snake GitHub Action — setup steps below.*
+> ⚙️ *Buildings = commits, stars = animation speed, issues = roaming "monsters," PRs = crowned buildings. Updates daily. Setup steps below.*
 
 ---
 
