@@ -96,46 +96,7 @@
   <ellipse class="cloud1" cx="120" cy="28" rx="35" ry="12" fill="rgba(255,255,255,0.12)"/>
   <ellipse class="cloud2" cx="600" cy="50" rx="65" ry="18" fill="rgba(255,255,255,0.12)"/>
   <ellipse class="cloud2" cx="625" cy="40" rx="40" ry="13" fill="rgba(255,255,255,0.12)"/>
-  <line class="rain" x1="759.0" y1="173.0" x2="761.0" y2="183.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.00s;animation-duration:0.60s"/>
-  <line class="rain" x1="112.0" y1="142.0" x2="114.0" y2="152.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.15s;animation-duration:0.75s"/>
-  <line class="rain" x1="365.0" y1="111.0" x2="367.0" y2="121.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.30s;animation-duration:0.90s"/>
-  <line class="rain" x1="618.0" y1="80.0" x2="620.0" y2="90.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.45s;animation-duration:1.05s"/>
-  <line class="rain" x1="871.0" y1="49.0" x2="873.0" y2="59.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.60s;animation-duration:1.20s"/>
-  <line class="rain" x1="224.0" y1="18.0" x2="226.0" y2="28.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.75s;animation-duration:0.60s"/>
-  <line class="rain" x1="477.0" y1="182.0" x2="479.0" y2="192.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.90s;animation-duration:0.75s"/>
-  <line class="rain" x1="730.0" y1="151.0" x2="732.0" y2="161.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.05s;animation-duration:0.90s"/>
-  <line class="rain" x1="83.0" y1="120.0" x2="85.0" y2="130.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.20s;animation-duration:1.05s"/>
-  <line class="rain" x1="336.0" y1="89.0" x2="338.0" y2="99.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.35s;animation-duration:1.20s"/>
-  <line class="rain" x1="589.0" y1="58.0" x2="591.0" y2="68.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.50s;animation-duration:0.60s"/>
-  <line class="rain" x1="842.0" y1="27.0" x2="844.0" y2="37.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.65s;animation-duration:0.75s"/>
-  <line class="rain" x1="195.0" y1="191.0" x2="197.0" y2="201.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.80s;animation-duration:0.90s"/>
-  <line class="rain" x1="448.0" y1="160.0" x2="450.0" y2="170.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.95s;animation-duration:1.05s"/>
-  <line class="rain" x1="701.0" y1="129.0" x2="703.0" y2="139.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.10s;animation-duration:1.20s"/>
-  <line class="rain" x1="54.0" y1="98.0" x2="56.0" y2="108.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.25s;animation-duration:0.60s"/>
-  <line class="rain" x1="307.0" y1="67.0" x2="309.0" y2="77.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.40s;animation-duration:0.75s"/>
-  <line class="rain" x1="560.0" y1="36.0" x2="562.0" y2="46.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.55s;animation-duration:0.90s"/>
-  <line class="rain" x1="813.0" y1="5.0" x2="815.0" y2="15.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.70s;animation-duration:1.05s"/>
-  <line class="rain" x1="166.0" y1="169.0" x2="168.0" y2="179.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.85s;animation-duration:1.20s"/>
-  <line class="rain" x1="419.0" y1="138.0" x2="421.0" y2="148.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.00s;animation-duration:0.60s"/>
-  <line class="rain" x1="672.0" y1="107.0" x2="674.0" y2="117.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.15s;animation-duration:0.75s"/>
-  <line class="rain" x1="25.0" y1="76.0" x2="27.0" y2="86.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.30s;animation-duration:0.90s"/>
-  <line class="rain" x1="278.0" y1="45.0" x2="280.0" y2="55.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.45s;animation-duration:1.05s"/>
-  <line class="rain" x1="531.0" y1="14.0" x2="533.0" y2="24.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.60s;animation-duration:1.20s"/>
-  <line class="rain" x1="784.0" y1="178.0" x2="786.0" y2="188.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.75s;animation-duration:0.60s"/>
-  <line class="rain" x1="137.0" y1="147.0" x2="139.0" y2="157.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.90s;animation-duration:0.75s"/>
-  <line class="rain" x1="390.0" y1="116.0" x2="392.0" y2="126.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.05s;animation-duration:0.90s"/>
-  <line class="rain" x1="643.0" y1="85.0" x2="645.0" y2="95.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.20s;animation-duration:1.05s"/>
-  <line class="rain" x1="896.0" y1="54.0" x2="898.0" y2="64.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.35s;animation-duration:1.20s"/>
-  <line class="rain" x1="249.0" y1="23.0" x2="251.0" y2="33.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.50s;animation-duration:0.60s"/>
-  <line class="rain" x1="502.0" y1="187.0" x2="504.0" y2="197.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.65s;animation-duration:0.75s"/>
-  <line class="rain" x1="755.0" y1="156.0" x2="757.0" y2="166.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.80s;animation-duration:0.90s"/>
-  <line class="rain" x1="108.0" y1="125.0" x2="110.0" y2="135.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:0.95s;animation-duration:1.05s"/>
-  <line class="rain" x1="361.0" y1="94.0" x2="363.0" y2="104.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.10s;animation-duration:1.20s"/>
-  <line class="rain" x1="614.0" y1="63.0" x2="616.0" y2="73.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.25s;animation-duration:0.60s"/>
-  <line class="rain" x1="867.0" y1="32.0" x2="869.0" y2="42.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.40s;animation-duration:0.75s"/>
-  <line class="rain" x1="220.0" y1="1.0" x2="222.0" y2="11.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.55s;animation-duration:0.90s"/>
-  <line class="rain" x1="473.0" y1="165.0" x2="475.0" y2="175.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.70s;animation-duration:1.05s"/>
-  <line class="rain" x1="726.0" y1="134.0" x2="728.0" y2="144.0" stroke="#7ec8e3" stroke-width="1" opacity="0.7" style="animation-delay:1.85s;animation-duration:1.20s"/>
+  
 
   <!-- Ground -->
   <rect x="0" y="195" width="900" height="65" fill="url(#gnd)"/>
